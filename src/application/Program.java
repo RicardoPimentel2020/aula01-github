@@ -28,6 +28,7 @@ public class Program {
 		
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Minutes: " + month);
+		System.out.println("bom dia ");
 		
 	}
 
